@@ -1,0 +1,4 @@
+hello today is 21 and day is tuesday
+also it is tags we are studying today
+there are few flags to use like 1.git tag <tag name> hashvalue    2. git tag -a <tagname> -m "message" hashvalue   3.git tag --list
+4. git show <tag name>  5.git tag --delete <tagname>
